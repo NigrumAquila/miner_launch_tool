@@ -1,0 +1,1 @@
+--oc_lock_core_clock 1100

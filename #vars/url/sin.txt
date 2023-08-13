@@ -1,0 +1,1 @@
+stratum+tcp://fi.mining4people.com:5019

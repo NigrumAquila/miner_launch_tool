@@ -1,0 +1,1 @@
+--algo EQUI144_5 --pers BgoldPoW

@@ -1,0 +1,1 @@
+--algorithm blake3_alephium

@@ -1,0 +1,1 @@
+--algorithm etchash --algorithm blake3_alephium

@@ -1,0 +1,1 @@
+pool.hashvault.pro:3333

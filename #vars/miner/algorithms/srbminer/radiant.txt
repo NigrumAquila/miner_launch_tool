@@ -1,0 +1,1 @@
+--algorithm sha512_256d_radiant

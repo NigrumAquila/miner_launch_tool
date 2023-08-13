@@ -1,0 +1,1 @@
+put here the actual version of the miner with the name "miner.exe"

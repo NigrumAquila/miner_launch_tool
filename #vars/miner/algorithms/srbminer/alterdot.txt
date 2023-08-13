@@ -1,0 +1,1 @@
+--algorithm argon2d_16000
