@@ -1,0 +1,1 @@
+stratum2+tcp://eu.vbk-ultra.org:3333

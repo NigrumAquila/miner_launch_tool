@@ -1,0 +1,1 @@
+--algorithm kaspa --algorithm progpow_epic --zil-enable --zil-esm 2

@@ -1,0 +1,1 @@
+--algorithm argon2id_chukwa2

@@ -1,0 +1,1 @@
+--algorithm progpow_epic --algorithm ethash

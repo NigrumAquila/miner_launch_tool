@@ -1,0 +1,1 @@
+stratum+tcp://equihash.e4pool.com:9003

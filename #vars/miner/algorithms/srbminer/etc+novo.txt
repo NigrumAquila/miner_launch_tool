@@ -1,0 +1,1 @@
+--algorithm autolykos2 --algorithm sha256dt

@@ -1,0 +1,1 @@
+--algo etchash --dual-algo blake3

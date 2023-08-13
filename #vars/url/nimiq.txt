@@ -1,0 +1,1 @@
+nimiq.icemining.ca:2053
